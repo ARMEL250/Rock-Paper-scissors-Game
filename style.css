@@ -1,0 +1,21 @@
+body{
+    background-color:#2F303A;
+    margin-left:auto;
+    margin-right:auto;
+    width:70%;
+    margin-top: auto;
+    margin-bottom: auto;
+   
+}
+button{
+    color:black;
+}
+h2{
+    color:white;
+    font-family: poppins;
+}
+h6{
+    font-size:45px;
+    font-weight:bold;
+    color:white;
+}
